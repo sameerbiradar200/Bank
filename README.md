@@ -11,3 +11,5 @@ Tasks will be assigned shortly...
 | **Naresh** | - Entity classes <br> - Set up exception handling |
 | **Angnd** | - PostgreSQL <br> - SQL structure |
 
+for sameer
+
