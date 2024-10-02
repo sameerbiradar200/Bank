@@ -12,3 +12,4 @@ Tasks will be assigned shortly...
 | **Angnd** | - PostgreSQL <br> - SQL structure |
 
 
+hi sameer from git
