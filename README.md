@@ -12,3 +12,6 @@ Tasks will be assigned shortly...
 | **Angnd** | - PostgreSQL <br> - SQL structure |
 
 
+hi sameer from git
+hi i am sameer form ide
+## i am from old laoptop of sameer
