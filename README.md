@@ -12,5 +12,6 @@ Tasks will be assigned shortly...
 | **Angnd** | - PostgreSQL <br> - SQL structure |
 
 hi i am sameer biradar
+hi i am sameer from another github
 
 
