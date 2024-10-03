@@ -12,5 +12,6 @@ Tasks will be assigned shortly...
 | **Angnd** | - PostgreSQL <br> - SQL structure |
 
 Hi i'm Digvijay Bakare   
-hi i am sameer biradar
+hi i am sameer biradar  
+Hi i am Angad Raut
 
