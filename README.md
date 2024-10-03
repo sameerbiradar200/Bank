@@ -11,5 +11,11 @@ Tasks will be assigned shortly...
 | **Naresh** | - Entity classes <br> - Set up exception handling |
 | **Angnd** | - PostgreSQL <br> - SQL structure |
 
+Hi i'm Digvijay Bakare   
+hi i am sameer biradar  
+Hi i am Angad Raut   
+Hi i am Naresh Petkar  
+
+ok all done lets start to code
 
  
